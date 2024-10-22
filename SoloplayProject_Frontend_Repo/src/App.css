@@ -1,0 +1,26 @@
+.main {
+  display: flex;
+  flex-direction: row;
+  flex: 1; /* 메인 콘텐츠가 가능한 최대 높이를 가지도록 설정 */
+}
+
+.content {
+  flex: 1; /* 나머지 공간을 차지하도록 설정 */
+  padding: 1px;
+  
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
