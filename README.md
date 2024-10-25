@@ -23,9 +23,21 @@
 ![image](https://github.com/user-attachments/assets/0e0e935d-dd1b-4d68-95a0-a887c17f7757)
 
 # 기술 스텍
-![image](https://github.com/user-attachments/assets/1776639a-30d2-4d32-81a8-bc90c34bb2cc)
+##Languages
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 
-##시스템 아키텍처
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+
+## Framework
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
+
+## Etc..
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+# 시스템 아키텍처
 ![image](https://github.com/user-attachments/assets/bff2a577-9200-4a50-89aa-d32b495103e8)
 
 # 주요 기능
