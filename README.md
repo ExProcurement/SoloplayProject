@@ -22,7 +22,7 @@
 # 기획의도 및 컨셉
 ![image](https://github.com/user-attachments/assets/0e0e935d-dd1b-4d68-95a0-a887c17f7757)
 
-# 기술 스텍
+# 기술 스택
 ## Languages
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
