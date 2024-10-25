@@ -34,7 +34,9 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
 
 ## Etc..
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 # 시스템 아키텍처
 ![image](https://github.com/user-attachments/assets/bff2a577-9200-4a50-89aa-d32b495103e8)
@@ -53,6 +55,7 @@
 ![image]()
 
 # 서비스 아키텍처
+### 메뉴 구조도
 ![image](https://github.com/user-attachments/assets/24894be4-9e7f-4263-b88c-0188a0b5bcf7)
 ![image]()
 ![image]()
