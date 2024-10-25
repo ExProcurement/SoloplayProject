@@ -19,6 +19,9 @@
 # 팀원 소개
 ![image](https://github.com/user-attachments/assets/5c5a4cf9-6aa3-4100-b7a3-d577162f08e6)
 
+# 기획의도 및 컨셉
+![image](https://github.com/user-attachments/assets/0e0e935d-dd1b-4d68-95a0-a887c17f7757)
+
 # 기술 스텍
 ![image](https://github.com/user-attachments/assets/1776639a-30d2-4d32-81a8-bc90c34bb2cc)
 
@@ -26,21 +29,23 @@
 ![image](https://github.com/user-attachments/assets/bff2a577-9200-4a50-89aa-d32b495103e8)
 
 # 주요 기능
-![image](https://github.com/user-attachments/assets/9073fd3a-e712-48c9-8a0a-7ac6d982f698)
+## - 테마 기능
+![image](https://github.com/user-attachments/assets/1423cb00-9e99-40bf-b349-18975bf71b28)
+![image](https://github.com/user-attachments/assets/f0decace-6569-424f-86bd-22fc9e20fa90)
+
+## - 레이드 기능
+![image](https://github.com/user-attachments/assets/5b83fb7f-934b-435d-a1de-a90d15657988)
+![image](https://github.com/user-attachments/assets/ebb46667-c2da-4782-9250-2f5527d4c0cf)
 
 # 주요 화면
-![image](https://github.com/user-attachments/assets/878aad6f-14bd-4ddc-bfe7-f56297ff7d9a)
-![image](https://github.com/user-attachments/assets/51b85ab2-cf03-4d94-a241-eb5dfb80268b)
+![image]()
+![image]()
 
 # 서비스 아키텍처
-![image](https://github.com/user-attachments/assets/439c92af-e5dd-48f7-9516-e82ca64fcde7)
-![image](https://github.com/user-attachments/assets/f5ce4dd0-0071-4fe8-a50c-28094d97d077)
-![image](https://github.com/user-attachments/assets/fa774163-4e1f-4239-902f-95ce02cd8a64)
-![image](https://github.com/user-attachments/assets/212fd399-c7af-43f1-bbb9-c1881fe8ff18)
+![image](https://github.com/user-attachments/assets/24894be4-9e7f-4263-b88c-0188a0b5bcf7)
+![image]()
+![image]()
 
-
-# 최종 선정 AI 모델(환율 예측)
-![image](https://github.com/user-attachments/assets/4d8adae3-4656-4c6a-9944-44230a3551f6)
 
 
 
