@@ -1,6 +1,5 @@
-<div align="center">
+# 프로젝트명
 ![image](https://github.com/user-attachments/assets/6f29a349-db63-486d-98b1-9fef178bdec0)
-</div>
 <hr>
 <p align="center">
   게임처럼 즐기는 소비생활! Soloplay
