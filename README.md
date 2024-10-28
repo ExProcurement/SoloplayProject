@@ -35,11 +35,9 @@
 
 # 주요 기능
 ## - 테마 기능
-![image](https://github.com/user-attachments/assets/1423cb00-9e99-40bf-b349-18975bf71b28)
 ![image](https://github.com/user-attachments/assets/f0decace-6569-424f-86bd-22fc9e20fa90)
 
 ## - 레이드 기능
-![image](https://github.com/user-attachments/assets/5b83fb7f-934b-435d-a1de-a90d15657988)
 ![image](https://github.com/user-attachments/assets/ebb46667-c2da-4782-9250-2f5527d4c0cf)
 
 # 메뉴 구조도
