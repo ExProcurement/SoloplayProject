@@ -3,7 +3,6 @@
 
 > 프로젝트 명 : 게임처럼 즐기는 소비생활! SOLoPLAY!
 
-
 # 팀원 소개
 ![image](https://github.com/user-attachments/assets/5c5a4cf9-6aa3-4100-b7a3-d577162f08e6)
 
@@ -55,10 +54,3 @@
 
   > ### 테마 수정/삭제
   > <img width="1227" alt="주요 화면 및 소스코드 - 테마 수정:삭제" src="https://github.com/user-attachments/assets/90e992a5-ee15-4f13-80e9-8973a45052fb">
-
-
-
-
-
-
-
